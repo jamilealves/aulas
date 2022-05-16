@@ -1,0 +1,13 @@
+Lista armazenam mutiplos objetos em uma unica variavel.   
+Cada objeto tem um indice , que indica sua posiçao dentro da lista.
+O indice 0 refere-se ao primeiro elemento de uma ista.
+OPERAÇOES
+A funçao len () informa a quantidade de objetos em uma lista.
+lista=[0,"maria",true,-5,6] # Cria uma lista com quatro objetos print(len(lista)) # Impime 4
+A funçao list()alt era o tipo de um objeto para list e tambem para criar uma nova lista 
+#minhaLista = list((45, "ola " , 6.21)) # Cria uma lista com tres objetos print (minhaLista) # Imprime [45,  'ola' ,6.21]
+#O primeiro objeto tem como indice[0]
+LISTA
+ex: minhaLista = ["Tibba", "Iguape", "Pecem", "chumbuco", "Lagoinha", "bitupita", "paracuru", "mandau"] # Cria uma lista com oito elemento 
+ex: print(minhaLista (;4)) # Iprime ('Taiba' , 'Iguape' , 'Pecem ', 'Cuabuco'](4-1)
+ex: print (minhaLista[2:]) # Iprime ['pecem', chumbuco', 'Lagoimha' , 'Bitupita' , Paracuru' , 'mundau']
